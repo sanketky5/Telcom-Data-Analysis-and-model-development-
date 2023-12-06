@@ -1,1 +1,5 @@
-# Telcom-Data-Analysis-and-model-development-
+# Telcom Data Analysis and model development
+The project aimed to predict Satisfaction Scores in the Telecommunication Industry by utilizing User Engagement and User Experience Scores. It commenced with an in-depth User Overview Analysis, which identified top handsets, manufacturers, and user behaviours across applications like social media, gaming, and streaming.
+Initially, we conducted User Engagement Analysis, exploring metrics such as session frequency, duration, and total traffic. Key components included clustering users based on engagement levels and identifying the top engaged users per application.
+Subsequently, we delved into Experience Analytics, placing emphasis on network parameters like TCP retransmission, Round Trip Time (RTT), and handset types. This phase involved aggregating customer-specific information and segmenting users based on their experiences with the network and devices.
+Finally, the project synthesized the analyses of engagement and experience to explore Satisfaction Analysis. This involved assigning scores to users, predicting satisfaction through regression modelling, and clustering users based on their engagement and experience scores. Deployment of the model and tracking its performance were crucial aspects."
